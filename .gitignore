@@ -1,0 +1,4 @@
+data/warmup
+lightning_logs
+__pycache__
+checkpoints
